@@ -11,7 +11,6 @@ A major part of the project involved transforming imperfect source data into a s
 The analysis was designed to explore questions such as:
 
 - Which products appear most frequently in the dataset?
-- Which categories contribute the most revenue?
 - How do products and categories compare by average rating?
 - How are discounts distributed across products?
 - What patterns exist in customer ratings and reviews?
@@ -111,7 +110,7 @@ The completed report includes:
 - Price vs. rating scatter analysis
 - Main-category filtering
 
-**Dashboard screenshot:** ready to be added to the repository as `images/amazon-product-performance-dashboard.png`.
+![Amazon Product Performance Power BI Dashboard](images/amazon-product-performance-dashboard.png)
 
 ## Skills Demonstrated
 
